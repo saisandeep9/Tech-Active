@@ -12,7 +12,8 @@ function App() {
       <CoverPage />
       <NavBar2/>
       <MainPage/>
-      <Home />
+      {/* <Home /> */}
+      
     </div>
   );
 }
