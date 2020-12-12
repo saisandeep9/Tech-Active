@@ -7,11 +7,11 @@ class Home extends Component {
     
   <h2>
 test
-    <h2>
+    </h2>
     
     
     
-    </div>;
+    </div>
   }
 }
 
